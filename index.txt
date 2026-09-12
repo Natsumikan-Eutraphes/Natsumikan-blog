@@ -1,6 +1,14 @@
-# Welcome to GitHub Desktop!
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>私のブログ</title>
+</head>
+<body>
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+<h1>私のブログ</h1>
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Natsumikan
+<p>ここから始めます。</p>
+
+</body>
+</html>
